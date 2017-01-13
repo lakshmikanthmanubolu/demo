@@ -6,16 +6,15 @@ public class Ops {
 	
 	public void test1(){
 		
-		
-		
-		
-		A a = 	new A();
-		
 		B b = new B();
+		b.sleep();
+		b.play();
+		b.wakeUp();
+		
 		
 		A aa =  new B();
-		
-		A aaa = new C();
+		aa.sleep();
+		aa.wakeUp();
 		
 		
 	}
