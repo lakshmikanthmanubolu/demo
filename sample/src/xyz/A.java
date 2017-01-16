@@ -20,7 +20,7 @@ public class A {
 	}
 	public static void main(String[] args) {
 		
-		A a = new A("Bharath");
+		A a = new A();
 		a.sleep(4);
 	}
 }
